@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946339259492",
+    "project_id": "megycall-1b17c",
+    "storage_bucket": "megycall-1b17c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946339259492:android:6d12568824c0a4d9216b71",
+        "android_client_info": {
+          "package_name": "meple.megycall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUlRKvGcgYbxhAjZR3Ti2YWAGaN6vVRj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
