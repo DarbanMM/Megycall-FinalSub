@@ -5,6 +5,8 @@ Members:
 3. Faiqah Nadhlifatul Mas’udiyah
 4. Dian Novendria Mutiara Syaharani
 
+Megycall is an application that is useful for calling service providers when an emergency occurs anywhere and anytime as long as the internet is still connected.
+
 For testing the backend:
 1. open signup folder
 2. open index.js file
