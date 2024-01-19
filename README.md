@@ -1,4 +1,4 @@
-# Meple Team - Megycall - HackFest 2024
+# MePle Team - Megycall - HackFest 2024
 Members:
 1. Darban Maha Mursyidi
 2. Muhamad Afrizal
